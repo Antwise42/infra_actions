@@ -13,4 +13,4 @@ jobs:
       run: echo Hello, cruel world!
 
     - name: Run a multi-line script
-      run: echo -e 1.. 2.. 3..\nTest started.
+      run: echo -e "1.. 2.. 3..\nTest started."
